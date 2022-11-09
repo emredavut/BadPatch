@@ -1,0 +1,100 @@
+[13-May-2022 03:37:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[13-Jul-2022 01:47:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[13-Jul-2022 01:47:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[13-Jul-2022 01:47:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[13-Jul-2022 01:47:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[13-Jul-2022 01:47:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[13-Jul-2022 01:47:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[13-Jul-2022 01:47:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[13-Jul-2022 01:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[13-Jul-2022 01:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[13-Jul-2022 01:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[13-Jul-2022 01:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[13-Jul-2022 01:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[13-Jul-2022 01:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[13-Jul-2022 01:48:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[13-Jul-2022 01:48:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[13-Jul-2022 01:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[16-Aug-2022 23:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[16-Aug-2022 23:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[16-Aug-2022 23:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7

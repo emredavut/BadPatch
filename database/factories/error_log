@@ -1,0 +1,56 @@
+[30-Dec-2021 02:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[30-Dec-2021 02:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[30-Dec-2021 02:07:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[30-Dec-2021 02:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[30-Dec-2021 02:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[30-Dec-2021 02:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[30-Dec-2021 02:07:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[13-Jul-2022 01:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[13-Jul-2022 01:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[13-Jul-2022 01:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[13-Jul-2022 01:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[13-Jul-2022 01:48:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[13-Jul-2022 01:48:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20
+[16-Aug-2022 23:27:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tawjihipal4u/public_html/database/factories/UserFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/factories/UserFactory.php on line 20

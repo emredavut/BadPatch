@@ -1,0 +1,344 @@
+[13-Sep-2021 13:27:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[23-Sep-2021 13:52:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[23-Sep-2021 13:52:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[23-Sep-2021 13:52:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[23-Sep-2021 13:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[23-Sep-2021 13:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[23-Sep-2021 13:52:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:52:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:52:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:52:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[23-Sep-2021 13:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[23-Sep-2021 13:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[23-Sep-2021 13:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[23-Sep-2021 13:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[23-Sep-2021 13:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[23-Sep-2021 13:53:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[23-Sep-2021 13:53:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[23-Sep-2021 13:53:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[23-Sep-2021 13:53:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[23-Sep-2021 13:53:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[23-Sep-2021 13:53:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[23-Sep-2021 13:53:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[23-Sep-2021 13:53:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[23-Sep-2021 13:53:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[23-Sep-2021 13:53:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[23-Sep-2021 13:58:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:58:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:58:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:58:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:58:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:58:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[23-Sep-2021 13:58:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:23:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:23:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:24:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:24:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:24:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:24:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:24:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:24:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:24:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:30:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:30:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:46:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:46:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:46:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17
+[13-Jul-2022 01:46:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[13-Jul-2022 01:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:46:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:46:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[13-Jul-2022 01:47:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:47:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:47:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:47:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:47:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:47:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[13-Jul-2022 01:47:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[16-Aug-2022 23:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/api.php on line 17
+[16-Aug-2022 23:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/tawjihipal4u/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/web.php on line 16
+[16-Aug-2022 23:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/tawjihipal4u/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/channels.php on line 16
+[16-Aug-2022 23:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/tawjihipal4u/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/routes/console.php on line 17

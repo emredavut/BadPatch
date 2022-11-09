@@ -1,0 +1,40 @@
+[21-Mar-2022 08:33:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[21-Mar-2022 08:34:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[13-Jul-2022 01:48:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[13-Jul-2022 01:48:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[13-Jul-2022 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[13-Jul-2022 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[13-Jul-2022 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[13-Jul-2022 01:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[13-Jul-2022 01:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10
+[16-Aug-2022 23:27:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Http/Controllers/Controller.php on line 10

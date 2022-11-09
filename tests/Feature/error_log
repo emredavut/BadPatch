@@ -1,0 +1,32 @@
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php on line 8
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php on line 8
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php on line 8
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php on line 8
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php on line 8
+[13-Jul-2022 01:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php on line 8
+[13-Jul-2022 01:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php on line 8
+[16-Aug-2022 23:27:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/tests/Feature/ExampleTest.php on line 8

@@ -1,0 +1,52 @@
+[30-Dec-2021 02:07:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[30-Dec-2021 02:07:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[30-Dec-2021 02:07:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[30-Dec-2021 02:07:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[30-Dec-2021 02:08:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[30-Dec-2021 02:08:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[13-May-2022 03:37:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[13-Jul-2022 01:48:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[13-Jul-2022 01:48:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[13-Jul-2022 01:48:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[13-Jul-2022 01:48:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[13-Jul-2022 01:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5
+[16-Aug-2022 23:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/database/seeds/DatabaseSeeder.php on line 5

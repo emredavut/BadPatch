@@ -1,0 +1,172 @@
+[13-May-2022 03:37:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-May-2022 03:37:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-May-2022 03:37:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[13-Jul-2022 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[13-Jul-2022 01:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[13-Jul-2022 01:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[13-Jul-2022 01:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[13-Jul-2022 01:48:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[13-Jul-2022 01:48:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php on line 8
+[13-Jul-2022 01:48:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php on line 8
+[13-Jul-2022 01:48:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php on line 8
+[13-Jul-2022 01:48:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php on line 8
+[13-Jul-2022 01:48:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php on line 8
+[13-Jul-2022 01:48:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php on line 8
+[13-Jul-2022 01:48:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php on line 8
+[13-Jul-2022 01:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-Jul-2022 01:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-Jul-2022 01:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-Jul-2022 01:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-Jul-2022 01:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-Jul-2022 01:48:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-Jul-2022 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[13-Jul-2022 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php on line 10
+[13-Jul-2022 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php on line 10
+[13-Jul-2022 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php on line 10
+[13-Jul-2022 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php on line 10
+[13-Jul-2022 01:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php on line 10
+[13-Jul-2022 01:48:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php on line 10
+[13-Jul-2022 01:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php on line 10
+[13-Jul-2022 01:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-Jul-2022 01:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-Jul-2022 01:48:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-Jul-2022 01:48:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-Jul-2022 01:48:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-Jul-2022 01:48:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[13-Jul-2022 01:48:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[16-Aug-2022 23:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AppServiceProvider.php on line 7
+[16-Aug-2022 23:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/AuthServiceProvider.php on line 8
+[16-Aug-2022 23:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[16-Aug-2022 23:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/RouteServiceProvider.php on line 8
+[16-Aug-2022 23:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Providers/EventServiceProvider.php on line 10

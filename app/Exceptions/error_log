@@ -1,0 +1,28 @@
+[13-Jul-2022 01:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php on line 8
+[13-Jul-2022 01:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php on line 8
+[13-Jul-2022 01:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php on line 8
+[13-Jul-2022 01:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php on line 8
+[13-Jul-2022 01:47:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php on line 8
+[13-Jul-2022 01:47:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php on line 8
+[16-Aug-2022 23:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tawjihipal4u/public_html/app/Exceptions/Handler.php on line 8
